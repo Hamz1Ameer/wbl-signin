@@ -63,25 +63,31 @@ Before getting started, ensure you have the following installed on your system:
 git clone --single-branch --branch dev https://github.com/WhiteboxHub/Whitebox-Learning.git
 
 # Navigate to the client directory
+```bash
 cd Whitebox-Learning/client
-
+```
 # Install client dependencies
+```bash
 npm install
-
+```
 # Start the client
+```bash
 npm run dev
-
+```
 The client application will now be accessible in your web browser at `http://localhost:3000`.
 
 
 # Open a new terminal window or tab.
 
 # Navigate to the server directory
+```bash
 cd ../server
-
+```
 # Install server dependencies
+```bash
 npm install
-
+```
 # Start the server
+```bash
 npm start
-
+```
