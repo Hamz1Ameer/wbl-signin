@@ -34,3 +34,54 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
+
+
+
+
+
+# Whitebox Learning
+
+This repository contains the code for the client and server components of the Whitebox Learning project.
+
+## Installation and Usage
+
+To run the project, follow these steps:
+
+### Prerequisites
+
+Before getting started, ensure you have the following installed on your system:
+
+- Node.js (v12 or higher)
+- npm (Node Package Manager)
+- Git
+
+# Clone the repository
+git clone --single-branch --branch dev https://github.com/WhiteboxHub/Whitebox-Learning.git
+
+# Navigate to the client directory
+cd Whitebox-Learning/client
+
+# Install client dependencies
+npm install
+
+# Start the client
+npm run dev
+
+The client application will now be accessible in your web browser at `http://localhost:3000`.
+
+
+# Open a new terminal window or tab.
+
+# Navigate to the server directory
+cd ../server
+
+# Install server dependencies
+npm install
+
+# Start the server
+npm start
+
