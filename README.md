@@ -81,7 +81,7 @@ The client application will now be accessible in your web browser at `http://loc
 
 # Navigate to the server directory
 ```bash
-cd ../server
+cd Whitebox-Learning/server
 ```
 # Install server dependencies
 ```bash
